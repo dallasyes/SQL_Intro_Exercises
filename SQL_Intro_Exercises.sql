@@ -3,7 +3,7 @@
  -- Copy the following and paste into MySql Workbench
 
 -- find all products
-SELECT * FROM bestbuy;
+SELECT * FROM bestbuy.products;
  
  
 -- find all products that cost $1400
